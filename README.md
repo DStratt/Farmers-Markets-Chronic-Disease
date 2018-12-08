@@ -1,4 +1,4 @@
-# cs522-fm-proj
+# Farmers-Markets-Chronic-Disease
 ## Association analysis: farmers market frequency and chronic disease indicators
 
 Project for Hood College CS 522: Data Mining - Fall 2018
