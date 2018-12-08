@@ -16,10 +16,10 @@ Project for Hood College CS 522: Data Mining - Fall 2018
     Contains CDI dataset metadata file (json format) and reference article.
     Also contains webpage references for the FM and population datasets.
     
-  - Preprocessed folder:
+  - Processed folder:
     Contains two interim FM datasets, with and without discretization ranges.
-    A third FM dataset has full state names, used for mapping. Also contains an 
-    interim CDI dataset that includes CDI abbreviations.
+    Two additional FM datasets have full state names, used for mapping. Also 
+    contains an interim CDI dataset that includes CDI abbreviations.
 
 - Jupyter Notebooks folder:
   Contains final project notebook along with two preliminary notebooks for looking at FM
